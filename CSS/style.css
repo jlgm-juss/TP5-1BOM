@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+
+body {
+  background-color: black;
+}
+
+.titulo {
+  font-family: "Orbitron", sans-serif;
+  font-size: 2em;
+  color: white;
+}
+
+.fondoAzul {
+  text-shadow: 0 0 5px #7bacff, 0 0 10px #7bacff, 0 0 20px #7bacff,
+    0 0 30px #7bacff, 0 0 40px #7bacff, 0 0 50px #7bacff, 0 0 70px #7bacff,
+    0 0 100px #7bacff;
+}
+
+
+li{
+    list-style: none;
+    font-size: 17px;
+    margin-left: -20px;
+}
+
+.pHora {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
